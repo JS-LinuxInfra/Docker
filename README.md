@@ -2,7 +2,14 @@
 Containerized Application Deployment with Docker
 
 ## Scope
-This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
+This project completed the following operational Docker tasks. Each step includes screenshots, the commands used, and an explanation of the task's purpose. The focus area involves image and container management and troubleshooting, container creation from images via YAML, pulling and pushing images to Docker Hub, creating images using Docker Compose, network troubleshooting and management, and finally, container orchestration.
+
+## Environment
+- Docker Server: 25.05
+- Docker Client: 25.05
+- dockercli for CLI management and troubleshooting
+- Operating System: Alpine Linux 3.18.9
+- YAML manifests both authored manually or provided and manipulated/updated during troubleshooting
 
 ## Tasks
 
