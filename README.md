@@ -4,7 +4,7 @@ Containerized Application Deployment with Docker
 ## Scope
 This project completed the following operational tasks. Screenshots are provided for each task completed, as well as the syntax used and why this task was executed.
 
-## Steps
+## Tasks
 
 ### Determine the number of images on the host.
 ![Step1](images/step1.jpg)
