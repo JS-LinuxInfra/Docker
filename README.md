@@ -4,17 +4,6 @@ Containerized Application Deployment with Docker
 ## Scope
 This project completed the following operational Docker tasks. Each step includes screenshots, the commands used, and an explanation of the task's purpose. The focus area involves image and container management and troubleshooting, container creation from images via YAML, pulling and pushing images to Docker Hub, creating images using Docker Compose, network troubleshooting and management, and finally, container orchestration.
 
-## 📁 Project Structure
-
-```text
-project-root/
-├── README.md
-├── src/
-│   └── main.py
-└── tests/
-    └── test_main.py
-```
-
 ## Environment
 - Docker Server: 25.05
 - Docker Client: 25.05
